@@ -1,0 +1,163 @@
+https://www.snapdeal.com/omn/getOmnitureCode?eventType=loginPageModal&position=headerBar
+
+POST /omn/getOmnitureCode?eventType=loginPageModal&position=headerBar HTTP/1.1
+Host: www.snapdeal.com
+Connection: keep-alive
+Content-Length: 0
+Accept: text/html, */*; q=0.01
+Origin: https://www.snapdeal.com
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Content-Type: application/json; charset=utf-8
+Referer: https://www.snapdeal.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.8,en;q=0.6
+Cookie: f5_cspm=1234; u=150106822369119858; st=utm_source%3DSEO%7Cutm_content%3Dnull%7Cutm_medium%3Dnull%7Cutm_campaign%3Dnull%7Cref%3Dnull%7Cutm_term%3Dnull%7Caff_id%3Dnull%7Caff_sub%3Dnull%7Caff_sub2%3Dnull%7C; spin=-login; eid="nanhi1110@gmail.com"; _bs=a892ee54-719e-2c5f-3402-b0f465514a13; lang=en; sd.zone=NO_ZONE; pushD=; JSESSIONID=DFCE86BA9B0D9F8179710C9A37FC4E5F; isWebP=true; s_pers=%20s_vnum%3D1507255878868%2526vn%253D1%7C1507255878868%3B%20gpv_pn%3DhomePage%253Anew%7C1504665708758%3B%20s_invisit%3Dtrue%7C1504665708760%3B; vt=utm_source%3DDIRECT%7Cutm_content%3Dnull%7Cutm_medium%3Dnull%7Cutm_campaign%3Dnull%7Cref%3Dnull%7Cutm_term%3Dnull%7Caff_id%3Dnull%7Caff_sub%3Dnull%7Caff_sub2%3Dnull%7C; lt=utm_source%3DDIRECT%7Cutm_content%3Dnull%7Cutm_medium%3Dnull%7Cutm_campaign%3Dnull%7Cref%3Dnull%7Cutm_term%3Dnull%7Caff_id%3Dnull%7Caff_sub%3Dnull%7Caff_sub2%3Dnull%7C; xg="eyJzYyI6eyJzaGlwcGluZ19pbnRlcnZhbCI6Ijk4cCJ9fXx8MTUwNDY2NTcwNDg3Mg=="; xc="eyJzYyI6eyJzaGlwcGluZ19pbnRlcnZhbCI6Ijk4cCJ9fQ=="; Megatron=!KMwg+iVcvSzbtx23cARbrBAaC8z0n50RHbilGSSBelJSPQc0Yr+xOlb/BILoVClRPj0C3KBC+dnEbSc=; f5avr2137746719aaaaaaaaaaaaaaaa=BLJGNDBCOMDPAAEFEGKLFMNEKNOKMPNLPLMGFBIKDEEBJCLPFFKEBNKHMGCFGADFKEKCHFOMOHFMFJBOHOHAKOOMBIJEIGALFMPFKFLAGMCPPNCHLKJJENOPBCEPCHCH; s_sess=%20s_cc%3Dtrue%3B%20s_sq%3D%3B%20s_ppv%3D53%3B; _sdDPPageId=1504663986012_3006_150106822369119858
+
+HTTP/1.1 200 OK
+Server: Apache-Coyote/1.1
+Access-Control-Allow-Origin: https://www.snapdeal.com
+Access-Control-Allow-Credentials: true
+P3P: policyref="http://www.snapdeal.com/w3c/p3p.xml", CP="NOI CURa ADMa DEVa TAIa OUR BUS IND UNI COM NAV INT";HttpOnly
+Pragma: no-cache
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Cache-Control: no-cache
+Cache-Control: no-store
+Content-Type: text/html
+X-XSS-Protection: 1; mode=block
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=16070400; includeSubDomains
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Date: Wed, 06 Sep 2017 02:13:11 GMT
+Content-Length: 391
+Connection: keep-alive
+Set-Cookie: xg="eyJzYyI6eyJzaGlwcGluZ19pbnRlcnZhbCI6Ijk4cCJ9fXx8MTUwNDY2NTcwNDg3Mg=="; Version=1; Domain=.snapdeal.com; Max-Age=1800; Expires=Wed, 06-Sep-2017 02:43:10 GMT; Path=/
+Set-Cookie: xc="eyJzYyI6eyJzaGlwcGluZ19pbnRlcnZhbCI6Ijk4cCJ9fQ=="; Version=1; Domain=.snapdeal.com; Max-Age=1800; Expires=Wed, 06-Sep-2017 02:43:10 GMT; Path=/
+Set-Cookie: Megatron=!ViG5Ao4bSjzBAq23cARbrBAaC8z0nzal81DSLnGxLezJDa49nzwYWXCOYrHAcHgQb3IH7IMDx7+r9KQ=; path=/; Httponly; Secure
+Set-Cookie: f5avr2137746719aaaaaaaaaaaaaaaa=; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/;
+Set-Cookie: f5_cspm=1234;
+
+
+
+https://www.facebook.com/tr/?id=298696083641002&ev=PixelInitialized&dl=https%3A%2F%2Fwww.snapdeal.com%2F&rl=https%3A%2F%2Fwww.snapdeal.com%2F%3FlogoutSuccess%3Dsuccess&if=false&ts=1504663986019
+
+data:image/gif;base64,R0lGODlhAQABAIAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOwo=
+
+
+https://www.snapdeal.com/omn/getOmnitureCode?eventType=loginModalFlag&emailOnLogin=true&showPassword=false
+
+POST /omn/getOmnitureCode?eventType=loginModalFlag&emailOnLogin=true&showPassword=false HTTP/1.1
+Host: www.snapdeal.com
+Connection: keep-alive
+Content-Length: 0
+Accept: text/html, */*; q=0.01
+Origin: https://www.snapdeal.com
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Content-Type: application/json; charset=utf-8
+Referer: https://www.snapdeal.com/iframeLogin
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.8,en;q=0.6
+Cookie: f5_cspm=1234; u=150106822369119858; st=utm_source%3DSEO%7Cutm_content%3Dnull%7Cutm_medium%3Dnull%7Cutm_campaign%3Dnull%7Cref%3Dnull%7Cutm_term%3Dnull%7Caff_id%3Dnull%7Caff_sub%3Dnull%7Caff_sub2%3Dnull%7C; spin=-login; eid="nanhi1110@gmail.com"; _bs=a892ee54-719e-2c5f-3402-b0f465514a13; lang=en; sd.zone=NO_ZONE; pushD=; JSESSIONID=DFCE86BA9B0D9F8179710C9A37FC4E5F; isWebP=true; s_pers=%20s_vnum%3D1507255878868%2526vn%253D1%7C1507255878868%3B%20gpv_pn%3DhomePage%253Anew%7C1504665708758%3B%20s_invisit%3Dtrue%7C1504665708760%3B; vt=utm_source%3DDIRECT%7Cutm_content%3Dnull%7Cutm_medium%3Dnull%7Cutm_campaign%3Dnull%7Cref%3Dnull%7Cutm_term%3Dnull%7Caff_id%3Dnull%7Caff_sub%3Dnull%7Caff_sub2%3Dnull%7C; lt=utm_source%3DDIRECT%7Cutm_content%3Dnull%7Cutm_medium%3Dnull%7Cutm_campaign%3Dnull%7Cref%3Dnull%7Cutm_term%3Dnull%7Caff_id%3Dnull%7Caff_sub%3Dnull%7Caff_sub2%3Dnull%7C; xg="eyJzYyI6eyJzaGlwcGluZ19pbnRlcnZhbCI6Ijk4cCJ9fXx8MTUwNDY2NTcwNDg3Mg=="; xc="eyJzYyI6eyJzaGlwcGluZ19pbnRlcnZhbCI6Ijk4cCJ9fQ=="; Megatron=!KMwg+iVcvSzbtx23cARbrBAaC8z0n50RHbilGSSBelJSPQc0Yr+xOlb/BILoVClRPj0C3KBC+dnEbSc=; f5avr2137746719aaaaaaaaaaaaaaaa=BLJGNDBCOMDPAAEFEGKLFMNEKNOKMPNLPLMGFBIKDEEBJCLPFFKEBNKHMGCFGADFKEKCHFOMOHFMFJBOHOHAKOOMBIJEIGALFMPFKFLAGMCPPNCHLKJJENOPBCEPCHCH; s_sess=%20s_cc%3Dtrue%3B%20s_sq%3D%3B%20s_ppv%3D53%3B; _sdDPPageId=1504663986012_3006_150106822369119858
+
+HTTP/1.1 200 OK
+Server: Apache-Coyote/1.1
+Access-Control-Allow-Origin: https://www.snapdeal.com
+Access-Control-Allow-Credentials: true
+P3P: policyref="http://www.snapdeal.com/w3c/p3p.xml", CP="NOI CURa ADMa DEVa TAIa OUR BUS IND UNI COM NAV INT";HttpOnly
+Pragma: no-cache
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Cache-Control: no-cache
+Cache-Control: no-store
+Content-Type: text/html
+X-XSS-Protection: 1; mode=block
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=16070400; includeSubDomains
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Date: Wed, 06 Sep 2017 02:13:10 GMT
+Content-Length: 784
+Connection: keep-alive
+Set-Cookie: xg="eyJzYyI6eyJzaGlwcGluZ19pbnRlcnZhbCI6Ijk4cCJ9fXx8MTUwNDY2NTcwNDg3Mg=="; Version=1; Domain=.snapdeal.com; Max-Age=1800; Expires=Wed, 06-Sep-2017 02:43:10 GMT; Path=/
+Set-Cookie: xc="eyJzYyI6eyJzaGlwcGluZ19pbnRlcnZhbCI6Ijk4cCJ9fQ=="; Version=1; Domain=.snapdeal.com; Max-Age=1800; Expires=Wed, 06-Sep-2017 02:43:10 GMT; Path=/
+Set-Cookie: Megatron=!G8BwQCSdpZke87S3cARbrBAaC8z0n/qc1FsJaZycwX4Sjo7n5K4sJjx+NmJBe3cmKNyoIBHdeWRiOag=; path=/; Httponly; Secure
+Set-Cookie: f5avr2137746719aaaaaaaaaaaaaaaa=; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/;
+Set-Cookie: f5_cspm=1234;
+
+
+
+https://log.snapdeal.com/eventData
+
+POST /eventData HTTP/1.1
+Host: log.snapdeal.com
+Connection: keep-alive
+Content-Length: 708
+Origin: https://www.snapdeal.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Content-Type: text/plain; charset=UTF-8
+Accept: */*
+Referer: https://www.snapdeal.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.8,en;q=0.6
+
+HTTP/1.1 200 OK
+Server: Apache-Coyote/1.1
+Access-Control-Allow-Origin: *
+Content-Type: text/plain;charset=ISO-8859-1
+Content-Length: 7
+Date: Wed, 06 Sep 2017 02:13:10 GMT
+Set-Cookie: Megatron=!HHQ5cazKxMsuWA+3cARbrBAaC8z0n/qKAyhrRtlC/PHM/MY+GD4fZGNd2JR7Mpl6iYuzPvSGvh/DuvY=; path=/; Httponly; Secure
+X-XSS-Protection: 1; mode=block
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=16070400; includeSubDomains
+
+
+
+https://the-extension.com/stats?hash=ker87w3mwr4zpbhr06uoez5mi&eventCategory=eval&eventAction=init&eventLabel=
+
+POST /stats?hash=ker87w3mwr4zpbhr06uoez5mi&eventCategory=eval&eventAction=init&eventLabel= HTTP/1.1
+Host: the-extension.com
+Connection: keep-alive
+Content-Length: 0
+Origin: https://www.snapdeal.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Accept: */*
+Referer: https://www.snapdeal.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.8,en;q=0.6
+
+HTTP/1.1 200 OK
+Server: nginx/1.11.8
+Date: Wed, 06 Sep 2017 02:13:12 GMT
+Content-Type: text/plain; charset=utf-8
+Content-Length: 10
+Connection: keep-alive
+
+
+
+https://jasper.112.2o7.net/b/ss/jasper-snapdeal-prd/1/H.23.4/s0449168771355?AQB=1&ndh=1&t=6%2F8%2F2017%207%3A43%3A11%203%20-330&ce=UTF-8&ns=jasper&pageName=login&g=https%3A%2F%2Fwww.snapdeal.com%2F%3FlogoutSuccess%3Dsuccess&cc=INR&ch=homePage%3Anew&events=event2%2Cevent1%2Cevent19&c1=homepage&c12=login&v12=login&c13=homePage%3Anew&v13=homePage%3Anew&v15=buyerfront-web-4015&c18=0.3%7Cproduction%2Cutmbreak&v21=D%3Ds_vi&v22=nanhi1110%40gmail.com&v24=1&c28=6%2F9%2F2017&v31=en&v35=7%3A30AM%7CWednesday%7CWeekday&c36=2.869&v36=2.869&v41=false&v44=Mozilla%2F5.0%20(X11%3B%20Linux%20x86_64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F56.0.2924.87%20Safari%2F537.36&c45=https%3A%2F%2Fwww.snapdeal.com%2F%3FlogoutSuccess%3Dsuccess&c47=headerBar&c50=NO_ZONE&c60=%3Alogin&v64=utm_source%3DDIRECT%7Cutm_content%3Dnull%7Cutm_medium%3Dnull%7Cutm_campaign%3Dnull%7Cref%3Dnull%7Cutm_term%3Dnull%7Caff_id%3Dnull%7Caff_sub%3Dnull%7Caff_sub2%3Dnull%7C&s=1366x768&c=24&j=1.6&v=N&k=Y&bw=1366&bh=675&p=Chrome%20PDF%20Viewer%3BShockwave%20Flash%3BWidevine%20Content%20Decryption%20Module%3BNative%20Client%3B&AQE=1
+
+
+HTTP/1.1 200 OK
+Date: Wed, 06 Sep 2017 02:13:11 GMT
+Server: Omniture DC/2.0.0
+Access-Control-Allow-Origin: *
+Set-Cookie: s_vi=[CS]v1|2CBC3DE10503524C-40001195C000D5CC[CE]; Expires=Fri,  6 Sep 2019 02:13:11 GMT; Domain=jasper.112.2o7.net; Path=/
+X-C: ms-5.5.0
+Expires: Tue, 05 Sep 2017 02:13:11 GMT
+Last-Modified: Thu, 07 Sep 2017 02:13:11 GMT
+Cache-Control: no-cache, no-store, max-age=0, no-transform, private
+Pragma: no-cache
+ETag: "59AF59B7-2AE1-40DC090F"
+Vary: *
+P3P: CP="This is not a P3P policy"
+xserver: www1082
+Content-Length: 43
+Keep-Alive: timeout=15
+Connection: Keep-Alive
+Content-Type: image/gif
+

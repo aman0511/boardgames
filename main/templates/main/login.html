@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+
+
+{% block content %}
+		<div class="center color-red">
+			<h3>Login Page</h3>
+		</div>
+		<div class="card">
+		<div class="container">
+		<form class="col-md-6 col-md-offset-3" method="post"> 
+		{% csrf_token %}
+			{{form}}
+		</form>
+		</div>
+		</div>
+{% endblock content %}
